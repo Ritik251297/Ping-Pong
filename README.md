@@ -11,9 +11,9 @@
 
 # Setup
 
-#### Install Sublime- Text Editor
-#### Install Chrome on Windows
-#### Run the game
+#### Compatible with windows, ubuntu and MacOS
+#### Install NodeJS to run on system
+#### Run the game on browser
 
 # Documetation
 
