@@ -1,6 +1,7 @@
 # Ping-Pong
 # Features
 
+#### Game Development using HTML5, Canvas and JavaScript
 #### Ping Pong game in which the ball breaks the brick as it encounters a brick in its path
 #### The ball bounces back as it strikes the paddle which can be controlled by both mouse and keyboard
 #### Score increases by one as the brick breaks
@@ -13,4 +14,14 @@
 #### Install Sublime- Text Editor
 #### Install Chrome on Windows
 #### Run the game
+
+# Documetation
+
+#### Function Summary
+
+#### draw(), drawball(), drawpaddle(), drawbricks(), collision(), drawscore(), drawlives(), mouseMoveHandler(), keyDownHandler(), keyUpHandler()
+
+
+
+
 
